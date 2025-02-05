@@ -1,0 +1,79 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-family: "Karla", serif;
+}
+
+body {
+    background-color: #1c1c1c;    
+}
+
+.box-section {
+    width: 550px;
+    height: 550px;
+    background-color: #1f2937;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.main-header {
+    width: 350px;
+    color: white;
+    font-size: 40px;
+    font-weight: bold;
+    padding-top: 120px;
+    margin: 40px 0px 10px 0px;
+    text-align: left;
+    line-height: 40px;
+}
+
+.rand {
+    color: #10b981;
+}
+
+.text {
+    color: #D5D4D8;
+    margin: 0 0 40px 0;
+    text-align: left;
+    font-size: 21px;
+}
+
+.main-section {
+    width: 450px;
+    margin: 0 auto;
+    border-bottom: 2px solid #273549;
+    text-align: left;
+}
+
+.pass-btn {
+    background-color: #10b981;
+    border: 0;
+    margin: 0 0 40px 0;
+    padding: 10px 15px;
+    border-radius: 5px;
+    color: #D5D4D8;
+    font-size: 18px;
+    
+}
+
+.pass-btn:hover {
+    background-color: #0b875e;
+}
+
+.box {
+    width: 210px;
+    height: 40px;
+    background-color: #273549;
+    border: 0;
+    border-radius: 5px;
+    margin: 40px 15px 50px 15px;
+    color: #10b981;
+    text-align: center;
+    font-size: 16px;
+}
